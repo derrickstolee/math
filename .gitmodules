@@ -1,0 +1,39 @@
+[submodule "ADAGE"]
+	path = ADAGE
+	url = https://github.com/derrickstolee/ADAGE
+[submodule "ChainCounting"]
+	path = ChainCounting
+	url = https://github.com/derrickstolee/ChainCounting
+[submodule "ColorBlindIndex"]
+	path = ColorBlindIndex
+	url = https://github.com/derrickstolee/ColorBlindIndex
+[submodule "Coloring"]
+	path = Coloring
+	url = https://github.com/derrickstolee/Coloring
+[submodule "DistanceGraphs"]
+	path = DistanceGraphs
+	url = https://github.com/derrickstolee/DistanceGraphs
+[submodule "EarSearch"]
+	path = EarSearch
+	url = https://github.com/derrickstolee/EarSearch
+[submodule "MMSConjecture"]
+	path = MMSConjecture
+	url = https://github.com/derrickstolee/MMSConjecture
+[submodule "PosetDimension"]
+	path = PosetDimension
+	url = https://github.com/derrickstolee/PosetDimension
+[submodule "Progressions"]
+	path = Progressions
+	url = https://github.com/derrickstolee/Progressions
+[submodule "RainbowAPs"]
+	path = RainbowAPs
+	url = https://github.com/derrickstolee/RainbowAPs
+[submodule "Saturation"]
+	path = Saturation
+	url = https://github.com/derrickstolee/Saturation
+[submodule "TreeSearch"]
+	path = TreeSearch
+	url = https://github.com/derrickstolee/TreeSearch
+[submodule "Utilities"]
+	path = Utilities
+	url = https://github.com/derrickstolee/Utilities
