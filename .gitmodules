@@ -37,3 +37,6 @@
 [submodule "Utilities"]
 	path = Utilities
 	url = https://github.com/derrickstolee/Utilities
+[submodule "numbers"]
+	path = numbers
+	url = https://github.com/smallnumbers/numbers
